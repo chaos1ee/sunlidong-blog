@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: `Chaos Blog`,
-    name: `Li Hao`,
-    siteUrl: `https://chaos1ee.github.io`,
+    title: `Sun's Blog`,
+    name: `Daisy Sun`,
+    siteUrl: `https://sunlidong.life`,
     description: `This is a personal blog be used to record life and code.`,
     hero: {
       heading: `A gentleman should always mean what he says.`,
